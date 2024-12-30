@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-app-mad",
-    "slug": "react-native-app-mad",
+    "name": "214181X-React-native-app",
+    "slug": "214181X-React-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "healthsync",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
